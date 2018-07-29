@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\FirstWindowsFormsApp\FirstWindowsFormsApp\bin\Debug\FirstWindowsFormsApp.exe.config
+C:\Users\DELL\source\repos\FirstWindowsFormsApp\FirstWindowsFormsApp\bin\Debug\FirstWindowsFormsApp.exe
+C:\Users\DELL\source\repos\FirstWindowsFormsApp\FirstWindowsFormsApp\bin\Debug\FirstWindowsFormsApp.pdb
+C:\Users\DELL\source\repos\FirstWindowsFormsApp\FirstWindowsFormsApp\obj\Debug\FirstWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\FirstWindowsFormsApp\FirstWindowsFormsApp\obj\Debug\FirstWindowsFormsApp.Form1.resources
+C:\Users\DELL\source\repos\FirstWindowsFormsApp\FirstWindowsFormsApp\obj\Debug\FirstWindowsFormsApp.Properties.Resources.resources
+C:\Users\DELL\source\repos\FirstWindowsFormsApp\FirstWindowsFormsApp\obj\Debug\FirstWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\FirstWindowsFormsApp\FirstWindowsFormsApp\obj\Debug\FirstWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\FirstWindowsFormsApp\FirstWindowsFormsApp\obj\Debug\FirstWindowsFormsApp.exe
+C:\Users\DELL\source\repos\FirstWindowsFormsApp\FirstWindowsFormsApp\obj\Debug\FirstWindowsFormsApp.pdb
